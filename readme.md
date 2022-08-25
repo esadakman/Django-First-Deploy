@@ -1,4 +1,7 @@
 ## django-first-deploy
 
-<!-- web: gunicorn Django-Study.wsgi --log-file -
-web: gunicorn firstdjangodeploy.wsgi --log-file - -->
+- For understanding django structure and heroku deployment i make this small project.
+
+## Project Link
+
+#### You can reach my project from [here](https://firstdjangodeploy.herokuapp.com/) 👈
