@@ -1,1 +1,1 @@
-## django-first-project
+## django-first-deploy
