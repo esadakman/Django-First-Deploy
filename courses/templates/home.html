@@ -7,7 +7,7 @@
     <title>Details</title>
   </head>
   <body>
-    <h1>Courses</h1>
+    <h1>Courses</h1> 
     {% for i in courses %}
 
     <h3><a href="{% url 'course_detail' i.id %}">{{i.name}}</a></h3>
