@@ -65,8 +65,7 @@ $ git clone https://github.com/esadakman/django-auth.git
 
 ## Acknowledgements
 
-- In this project, i created a simple user registration and login page application app for understanding django authentication system.
-- 
+- In this project, i created a simple user registration and login page application app for understanding django authentication system.  
 
 ## Contact
 
