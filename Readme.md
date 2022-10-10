@@ -2,13 +2,12 @@
 
 <h1 align="center">Django Authentication</h1>
 
+
 <div align="center">
-  <h3>
-     
+  <h3>  
     <a href="https://github.com/esadakman/django-auth">
       Project
     </a>
- 
   </h3>
 </div>
 
@@ -27,11 +26,11 @@
 
 ## Acknowledgements
 
-- In this project, i created a simple user registration and login page application app for understanding django authentication system.  
+- In this project, i created a simple user registration and login page application app for understanding django authentication system.
+
 ## Overview
 
 ![auth](https://user-images.githubusercontent.com/98649983/188636583-80f31328-99d7-4ea3-8311-a2e58f7cd8f2.gif)
-
 
 ### Built With
 
@@ -43,7 +42,7 @@
 - Django
 - Bootstrap
 
-## How To Use 
+## How To Use
 
 To clone and run this application, you'll need [Git](https://git-scm.com)
 
@@ -62,7 +61,6 @@ $ git clone https://github.com/esadakman/django-auth.git
 # Run the app
     $ python manage.py runserver
 ```
-
 
 ## Contact
 
