@@ -4,10 +4,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://esadakman-django-auth.herokuapp.com/">
-      Demo
-    </a>
-     | 
+     
     <a href="https://github.com/esadakman/django-auth">
       Project
     </a>
@@ -19,15 +16,18 @@
 
 ## Table of Contents
 
+- [Acknowledgements](#acknowledgements)
 - [Overview](#overview)
 - [Built With](#built-with)
 - [Features](#features)
 - [How to use](#how-to-use)
-- [Acknowledgements](#acknowledgements)
 - [Contact](#contact)
 
 <!-- OVERVIEW -->
 
+## Acknowledgements
+
+- In this project, i created a simple user registration and login page application app for understanding django authentication system.  
 ## Overview
 
 ![auth](https://user-images.githubusercontent.com/98649983/188636583-80f31328-99d7-4ea3-8311-a2e58f7cd8f2.gif)
@@ -63,9 +63,6 @@ $ git clone https://github.com/esadakman/django-auth.git
     $ python manage.py runserver
 ```
 
-## Acknowledgements
-
-- In this project, i created a simple user registration and login page application app for understanding django authentication system.  
 
 ## Contact
 
